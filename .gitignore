@@ -1,0 +1,8 @@
+.venv/
+data/
+checkpoints/
+__pycache__/
+*.pth
+*.onnx
+.DS_Store
+.vscode/
